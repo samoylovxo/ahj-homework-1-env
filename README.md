@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/kvd18189v2jh9lxv/branch/main?svg=true)](https://ci.appveyor.com/project/samoylovxo/ahj-homework-1-env/branch/main)
+
 # Webpack5
 
 [Информация о релизе Webpack 5](https://webpack.js.org/blog/2020-10-10-webpack-5-release/)
